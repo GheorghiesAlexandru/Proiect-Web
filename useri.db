@@ -1,0 +1,7 @@
+CREATE TABLE "useri" (
+	"id"	INTEGER,
+	"username"	TEXT,
+	"password"	TEXT,
+	"role"	TEXT,
+	PRIMARY KEY("id")
+);
