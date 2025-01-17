@@ -1,0 +1,6 @@
+CREATE TABLE "produse" (
+	"id"	INTEGER,
+	"nume"	TEXT,
+	"pret"	TEXT,
+	PRIMARY KEY("id")
+);
